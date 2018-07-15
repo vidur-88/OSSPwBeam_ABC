@@ -1,1 +1,4 @@
 # OSSPwBeam_ABC
+Artificial Bee Colony (ABC) algorithm is one of the most recently introduced swarm-based algorithms. The ABC algorithm is an optimization algorithm based on the intelligent foraging behavior of honey bee swarm. In this thesis we propose a hybridization of ABC algorithm with Beam Search (BS), which is well known heuristic tree search method. We call this approach Beam-ABC. The usefulness of Beam-ABC and ABC is demonstrated by their application to Open Shop Scheduling Problem (OSSP) with the objective of minimizing the makespan time (time required for all operations to complete their process). Finally, we compare the computation results of ABC and Beam-ABC on well-known benchmarks. Results show that the performance of the Beam-ABC is better than ABC algorithm.
+
+Keywords: open shop scheduling, artificial bee colony algorithm, beam search, minimum makespan.
